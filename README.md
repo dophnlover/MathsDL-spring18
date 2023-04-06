@@ -16,6 +16,7 @@ Topics course Mathematics of Deep Learning, NYU, Spring 18. CSCI-GA 3033.
 __Lecture Instructor__: Joan Bruna (bruna@cims.nyu.edu)
 
 __Tutor (Parallel Curricula)__: Cinjon Resnick (cinjon@nyu.edu)
+metting is at 9:50 please join now thank you !!!!
 
 
 ## Syllabus
